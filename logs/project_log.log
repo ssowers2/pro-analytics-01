@@ -111,3 +111,32 @@
 2025-01-26 16:53:15.174 | INFO     | __main__:main:62 - Standard Deviation: 0.60
 2025-01-26 16:53:15.174 | INFO     | __main__:main:64 - Exiting MAIN function.
 2025-01-26 16:53:15.174 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-02 18:34:58.554 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-02 18:34:58.554 | INFO     | __main__:<module>:72 - STATS - Ready for work.
+2025-02-02 18:34:58.554 | INFO     | __main__:main:55 - Starting MAIN function.
+2025-02-02 18:34:58.554 | INFO     | __main__:main:58 - Scores: [3.5, 4.0, 4.8, 2.9, 3.7, 4.3, 3.8]
+2025-02-02 18:34:58.554 | INFO     | __main__:main:59 - Minimum: 2.90
+2025-02-02 18:34:58.554 | INFO     | __main__:main:60 - Maximum: 4.80
+2025-02-02 18:34:58.554 | INFO     | __main__:main:61 - Mean: 3.86
+2025-02-02 18:34:58.554 | INFO     | __main__:main:62 - Standard Deviation: 0.60
+2025-02-02 18:34:58.554 | INFO     | __main__:main:64 - Exiting MAIN function.
+2025-02-02 18:34:58.559 | INFO     | __main__:<module>:80 - STATS - Execution complete.
+2025-02-02 18:35:16.876 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-02 18:35:16.876 | INFO     | __main__:<module>:52 - CHARTS - Ready for work.
+2025-02-02 18:35:16.876 | INFO     | __main__:main:26 - Starting main function.
+2025-02-02 18:35:17.450 | INFO     | __main__:main:31 - Loaded penguins dataset successfully.
+2025-02-02 18:35:19.107 | INFO     | __main__:main:39 - NOTE: Close the chart window to continue and exit the script.
+2025-02-02 18:35:28.961 | INFO     | __main__:main:41 - Exiting main function.
+2025-02-02 18:35:28.961 | INFO     | __main__:<module>:54 - CHARTS - Execution complete.
+2025-02-02 18:35:49.343 | INFO     | utils_logger:<module>:39 - Logging to file: logs\project_log.log
+2025-02-02 18:35:49.343 | INFO     | __main__:<module>:79 - HELLO - Ready for work.
+2025-02-02 18:35:49.343 | INFO     | __main__:main:44 - Starting main function.
+2025-02-02 18:36:49.392 | INFO     | __main__:main:68 - Hello, Sabriya! Welcome to Python programming.
+2025-02-02 18:36:54.787 | INFO     | __main__:main:68 - Hola, Sabriya! Bienvenido a la programación en Python.
+2025-02-02 18:36:59.862 | INFO     | __main__:main:68 - 你好, Sabriya! 欢迎学习Python编程.
+2025-02-02 18:37:02.814 | INFO     | __main__:main:68 - Bonjour, Sabriya! Bienvenue à la programmation Python.
+2025-02-02 18:37:07.876 | INFO     | __main__:main:68 - Hallo, Sabriya! Willkommen bei der Python-Programmierung.
+2025-02-02 18:37:12.793 | INFO     | __main__:main:68 - హలో, Sabriya! Python ప్రోగ్రామింగ్‌లోకి స్వాగతం.
+2025-02-02 18:37:15.731 | INFO     | __main__:main:68 - Hei, Sabriya! Velkommen til Python-programmering.
+2025-02-02 18:37:20.292 | INFO     | __main__:main:72 - Exiting main function.
+2025-02-02 18:37:20.292 | INFO     | __main__:<module>:81 - HELLO - Execution complete.
